@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+App som viser sangliste med detaljer når du trykker på sangen. Gjort med React Redux
+
 ## Available Scripts
 
 In the project directory, you can run:
